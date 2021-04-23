@@ -10,4 +10,4 @@ sudo apt updtae
 ```
 sudo systemctl status apache2
 ```
-![](images/prj-1-apache-status.png)	
+![](images/prj-1-apache-status.PNG)	
